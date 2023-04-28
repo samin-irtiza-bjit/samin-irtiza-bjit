@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="./github-header-image.png" />
+<div align="center"><img src="./github-header-image.png" /></div>
 
 # 💫 About Me:
 🔭 I’m currently working on [Recipe-Hub](https://github.com/uksaha77/recipe-hub)<br>👯 I’m looking to collaborate on anything JavaScript<br>🌱 I’m currently learning everything JavaScript and Python<br>💬 Ask me about React

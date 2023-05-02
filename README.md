@@ -28,7 +28,7 @@ Completed my B.Sc. in Computer Science and Engineering from BRAC University
 # 📈 GitHub Stats:
 <div class="img" display="flex" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=samin-irtiza-bjit&theme=merko&hide_border=false&include_all_commits=true&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samin-irtiza&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0&count_weight=1"> </br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samin-irtiza-bjit&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0&count_weight=1"> </br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=samin-irtiza-bjit&theme=merko&hide_border=false"/></br>
 </div>
 
